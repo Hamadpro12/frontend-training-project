@@ -164,6 +164,7 @@ else if(password !== confirmPassword){
 
     });
 
+}
     /* ===================================
    TO-DO LIST APPLICATION
 =================================== */
@@ -281,5 +282,3 @@ function completeTask(button) {
         .getElementById("completedTasks")
         .appendChild(taskItem);
 }
-
-}   
